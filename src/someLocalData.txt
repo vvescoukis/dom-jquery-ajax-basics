@@ -1,0 +1,7 @@
+Microsoft’s definition also attaches numbers to states, but the definition is shorter:
+
+<p>0 (uninitialized)
+<p>1 (loading)
+<p>2 (loaded)
+<p>3 (interactive)
+<p>4 (complete)
